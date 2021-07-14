@@ -1,6 +1,9 @@
 # README
-
 Quarkus REST server and REST client. Server connects to a Cassandra NoSQL DB.
+
+## Prerequisites 
+- podman or docker running 
+- https://quarkus.io/get-started/
 
 ## Running Server
 ```bash
